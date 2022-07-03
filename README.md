@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armic</h1>
 <h3 align="center">developer from Norway</h3>
 
-- 🔭 I’m currently working on [Radiant](https://private.fornow)
+- 🔭 I’m currently working on [Hypixel-Api-Plus](https://github.com/imarmic/hypixel-api-plus)
 
 - 🌱 I’m currently learning **React**
 
