@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **armic@armic.me**
 
-- ⚡ Fun fact **I'm Finnish but live in Norway**
+- ⚡ Fun fact **I know 4 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
